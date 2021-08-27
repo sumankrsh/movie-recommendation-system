@@ -8,4 +8,7 @@ Moreover,  companies like Netflix and Spotify  depend highly on the effectivenes
 
 # DataSet Details 
 https://www.kaggle.com/rounakbanik/the-movies-dataset
+
+
+
 https://www.kaggle.com/tmdb/tmdb-movie-metadata
